@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+#tshirt-img {
+  width: 300px;
+  height: 300px;
+}
+
+#buy-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
